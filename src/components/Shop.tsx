@@ -7,7 +7,7 @@ const services = [
     name: 'Sanitization',
     price: 999,
     icon: Spray,
-    description: 'Complete sanitization service for your space'
+    description: 'Complete sanitization service for your space for 2Bhk'
   },
   {
     id: 2,
