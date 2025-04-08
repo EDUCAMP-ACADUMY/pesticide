@@ -14,63 +14,63 @@ const services = [
     name: 'Dreiont Control',
     price: 1499,
     icon: Bug,
-    description: 'Professional dreiont pest control treatment'
+    description: 'Professional dreiont pest control treatment for 2bhk'
   },
   {
     id: 3,
     name: 'Liquid Sanitization',
-    price: 799,
+    price: 1199,
     icon: Droplet,
-    description: 'Thorough liquid sanitization service'
+    description: 'Thorough liquid sanitization service for 2bhk'
   },
   {
     id: 4,
     name: 'Ant Control',
-    price: 699,
+    price: 999,
     icon: Bug2,
-    description: 'Effective ant control treatment'
+    description: 'Effective ant control treatment for 2bhk'
   },
   {
     id: 5,
     name: 'Vehicle Sanitization',
-    price: 599,
+    price: 1299,
     icon: Car,
-    description: 'Complete vehicle sanitization service'
+    description: 'Complete vehicle sanitization service for 2bhk'
   },
   {
     id: 6,
     name: 'Mosquito Control',
-    price: 899,
+    price: 1599,
     icon: Mosquito,
-    description: 'Professional mosquito control treatment'
+    description: 'Professional mosquito control treatment for 2bhk'
   },
   {
     id: 7,
     name: 'Termite Treatment',
     price: 1999,
     icon: Building2,
-    description: 'Comprehensive termite control solution'
+    description: 'Comprehensive termite control solution for 2bhk'
   },
   {
     id: 8,
     name: 'Other Service',
-    price: 499,
+    price: 1499,
     icon: MoreHorizontal,
-    description: 'Custom pest control services'
+    description: 'Custom pest control services for 2bhk'
   },
   {
     id: 9,
     name: 'Cockroach Control',
-    price: 799,
+    price: 1399,
     icon: Rat,
-    description: 'Effective cockroach control treatment'
+    description: 'Effective cockroach control treatment for 2bhk'
   },
   {
     id: 10,
     name: 'Bed Bugs',
     price: 1299,
     icon: BedDouble,
-    description: 'Complete bed bug elimination service'
+    description: 'Complete bed bug elimination service for 2bhk'
   }
 ];
 
