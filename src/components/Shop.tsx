@@ -26,7 +26,7 @@ const services = [
   {
     id: 4,
     name: 'Ant Control',
-    price: 999,
+    price: 899,
     icon: Bug2,
     description: 'Effective ant control treatment for 2bhk'
   },
@@ -40,7 +40,7 @@ const services = [
   {
     id: 6,
     name: 'Mosquito Control',
-    price: 1599,
+    price: 1799,
     icon: Mosquito,
     description: 'Professional mosquito control treatment for 2bhk'
   },
