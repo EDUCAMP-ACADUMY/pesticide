@@ -29,7 +29,9 @@ function Contact() {
               <MapPin className="text-green-600" size={24} />
               <div>
                 <p className="font-medium">Address</p>
-                <p>123 Pest Control Street</p>
+                <p>Greater Noida, Uttar Pradesh, India
+
+Hc6x+cwq, Sector 1, Aimnabad, Bisrakh Jalalpur, Greater Noida, Bisrakh Jalalpur, Uttar Pradesh 201306, India </p>
                 <p>New Delhi, India</p>
               </div>
             </div>
