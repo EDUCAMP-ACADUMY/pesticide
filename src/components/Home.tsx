@@ -9,7 +9,7 @@ function Home() {
       <div 
         className="h-[600px] bg-cover bg-center relative"
         style={{
-          backgroundImage: 'url("src/components/487961285_1311747676595900_4100945100147295966_n.jpg")'
+          backgroundImage: 'url("/src/components/487961285_1311747676595900_4100945100147295966_n.jpg")'
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50" />
