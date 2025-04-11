@@ -77,7 +77,7 @@ function App() {
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-4">Business Hours</h3>
-                <p>Monday - Saturday: 9:00 AM - 6:00 PM</p>
+                <p>Monday - Sunday: 24/7</p>
                 <p>Sunday: Closed</p>
                 <p className="mt-4">24/7 Emergency Service Available</p>
               </div>
