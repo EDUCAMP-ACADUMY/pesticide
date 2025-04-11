@@ -16,7 +16,7 @@ function Home() {
         <div className="relative container mx-auto px-4 h-full flex items-center">
           <div className="text-white max-w-2xl">
             <h1 className="text-5xl font-bold mb-6">Safe & Effective Pest Control Services</h1>
-            <p className="text-xl mb-8">Professional pest control and sanitization services for your home or business.</p>
+            <p className="text-xl mb-8">Welcome to Pestora – your trusted partner in eco-friendly pest control solutions.</p>
             <div className="flex gap-4">
               <Link 
                 to="/shop"
@@ -69,6 +69,17 @@ function Home() {
             <p className="text-gray-600">
               Through decades of service, we've protected countless homes and businesses, developed cutting-edge pest control methods, and built a reputation for reliability and excellence. Our history is not just about eliminating pests – it's about creating safer, healthier environments for our community.
             </p>
+           <p>The homepage of Pestora introduces the company as a trusted provider of eco-friendly pest control solutions.
+        It invites visitors to learn more about the company's mission, explore the variety of 
+        <Link to="/Shop"> pest control services</Link> offered for both residential and commercial needs, and 
+        <Link to="/Contact"> reach out</Link> for inquiries or quotes.
+           </p>
+      <p>
+        The content is structured with clear internal links directing users to the 
+        <Link to="/About"> About</Link>, 
+        <Link to="/Shop"> Services</Link>, and 
+        <Link to="/Contact"> Contact</Link> pages, enhancing user navigation and SEO effectiveness.
+      </p> 
           </div>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="text-center">
